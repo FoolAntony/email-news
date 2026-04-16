@@ -14,6 +14,6 @@ The app takes data by using *<a ref="https://newsapi.org/">NewsAPI</a>*, collect
 5) Register and create an API key for your application on *<a ref="https://newsapi.org/">NewsAPI</a>* page.
 6) Copy the key and change <code>api_key</code> variable in <a ref="https://github.com/FoolAntony/email-news/blob/master/send_email.py">send_email.py</a> file.
 
-   * *NOTE: you may also update the <code>url</code>* with other URLs. By using different options, these URLs may be modified with required country, language, content, etc. For more information, please refer to *<a ref="https://newsapi.org/">NewsAPI</a> page*.
+   * *NOTE: you may also update the <code>url</code>* variable with other URLs. By using different options, these URLs may be modified with required country, language, content, etc. For more information, please refer to *<a ref="https://newsapi.org/">NewsAPI</a> page*.
 
 7) Run the program from the terminal: <code>python ./main.py</code>
